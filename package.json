@@ -1,0 +1,12 @@
+{
+        "name": "com.codeplex.commons",
+        "version": "1.0.0",
+        "displayName": "Fairplex Commons",
+        "description": "Commons assets I need",
+        "unity": "2019.4",
+        "author": {
+                "name": "Fairplex",
+                "email": "fairplexvrc@gmail.com",
+                "url": "https://github.com/FairplexVR"
+        }
+}
